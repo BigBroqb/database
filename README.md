@@ -1,1 +1,2 @@
-# database
+# Database
+Code for the database
